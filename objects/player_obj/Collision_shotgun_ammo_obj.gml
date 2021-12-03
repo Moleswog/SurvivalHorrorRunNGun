@@ -1,0 +1,1 @@
+shotgun_obj.ammoTotal += (8 - floor(random(5)));
