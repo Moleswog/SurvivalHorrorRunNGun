@@ -1,1 +1,1 @@
-# SurvivalHorror x Run N' Gun
+# Survival Horror x Run N' Gun
